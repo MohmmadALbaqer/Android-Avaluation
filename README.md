@@ -14,6 +14,13 @@ $ sudo python3 Android.py
 ```
 $ bash scan.sh
 ```
+### what Android Avaluation
+```
+It is a tool whose purpose is to evaluate the Android system and monitor the system
+including [hardware] and [software] parts monitor the [CPU] [GPU] [battery] [storage] capacity
+random RAM level of protection malware root.
+```
+
 ### work on systems
 
 ```
