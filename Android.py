@@ -82,10 +82,10 @@ def check_android_device():
     print(f"{ERROR} Android device is offline !{W}")
     print(f'''
     {sign} Please follow the steps: {W}
-    {G}1- {B}go to your Mobile.{W}
-    {G}2- {B}open Settings.{W}
-    {G}3- {B}Developer options.{W}
-    {G}4- {B}turn on (USB debugging).{W} 
+    {G}[1] {B}go to your Mobile.{W}
+    {G}[2] {B}open Settings.{W}
+    {G}[3] {B}Developer options.{W}
+    {G}[4] {B}turn on (USB debugging).{W} 
     ''')
     sys.exit(0)
     return False
